@@ -1,4 +1,4 @@
-# 🎯 3D Interactive Animation Showcase — by Franco Camelo Aguzzi
+# 🎯 3D Interactive Animation Showcase
 
 Hey there! 👋  
 This repository was crafted with care by **Franco Camelo Aguzzi** for a special [LinkedIn post](https://www.linkedin.com/in/franco-from-crystal/) to showcase how simple it is to create interactive 3D elements in websites, powered by **Atropos**, the amazing 3D hover effect library 🚀
